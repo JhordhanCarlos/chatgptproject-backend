@@ -1,0 +1,18 @@
+{
+  "name": "chatgpt-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fastify": "^4.14.1",
+    "openai": "^3.2.1"
+  },
+  "type": "module"
+}
